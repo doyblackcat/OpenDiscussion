@@ -1,4 +1,4 @@
-# OpenShift-4-discussion
+# OpenShift-discussion
 This is to discuss about my medium stories (https://medium.com/@doyblackcat) 
 
 I shared my experience on the medium. 
